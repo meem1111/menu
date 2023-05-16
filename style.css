@@ -1,0 +1,22 @@
+
+
+ body{
+       background-image:url(./menu/menu.png);
+       background-position: center;
+       background-size:contain;
+       background-repeat: no-repeat;
+       margin: 0;
+       padding: 0;
+    }
+    main{
+        background: rgba(0,0,0, 0.2);
+
+    }
+   
+    body,main{
+        width: 100vw;
+        min-height:100vh;
+    }
+
+
+    
